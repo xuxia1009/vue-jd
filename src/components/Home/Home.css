@@ -1,0 +1,22 @@
+.home{
+    width: 100%;
+    height: 100%;
+}
+.home dl{
+    width: 100%;
+    height: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.home dl dt {
+    flex:4;
+    text-align: center;
+}
+.home dl dt img{
+    width: 2rem;
+    height: 2rem;
+}
+.home dl dd {
+    flex: 6;
+}
